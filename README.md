@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/ervin-cahyadinata-sungkono-970a691b6/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/ervin.cs_09/">
+      <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://dribbble.com/ErvinCS">
+      <img src="https://img.shields.io/badge/Dribbble-orange?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
+    </a>
+  </div>
+  <h1>Hello there 👋</h1>
+</div>
 
-<!--
-**ervin-sungkono/ervin-sungkono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
