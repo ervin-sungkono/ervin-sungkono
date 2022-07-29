@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ervin-cahyadinata-sungkono-970a691b6/">
@@ -12,5 +12,5 @@
     </a>
   </div>
   <h1>Hello there 👋</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervin-sungkono&layout=compact" alt="Top Languange"/>
 </div>
-
