@@ -1,4 +1,4 @@
-<div id="header">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ervin-cahyadinata-sungkono-970a691b6/">
