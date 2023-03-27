@@ -8,10 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=ervin-sungkono&hide=prs&show_icons=true&count_private=true&theme=react" alt="Stats Card"/>
   <h2>Connect with me!</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ervin-cahyadinata-sungkono-970a691b6/">
+    <a href="https://www.linkedin.com/in/ervin-cahyadinata-sungkono">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/ervin.cs_09/">
+    <a href="https://www.instagram.com/ervin.cs_09">
       <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://dribbble.com/ErvinCS">
