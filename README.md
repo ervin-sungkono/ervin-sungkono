@@ -3,7 +3,7 @@
   <h1>Hello there 👋</h1>
   <p>I am a developer from Indonesia, currently studying at <b>Binus University</b> majoring in <b>Computer Science.</b> I am passionate when it comes to learning new stuff, especially in the fields of technology and coding.</p>
   <p>Javascript is my main programming languange, however there are some others based on my top languanges:</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervin-sungkono&layout=compact&hide=html,blade&theme=react" alt="Top Languange"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervin-sungkono&layout=compact&hide=html,css,scss,blade&theme=react" alt="Top Languange"/>
   <p>You can also check out my Github Stats:</p>
   <img src="https://github-readme-stats.vercel.app/api/?username=ervin-sungkono&hide=prs&show_icons=true&count_private=true&theme=react" alt="Stats Card"/>
   <h2>Connect with me!</h2>
